@@ -1,4 +1,9 @@
-# Astro Security
+Thanks for helping make Astro safe for everyone.
+
+# Security
+
+Astro takes the security of our software seriously, including all of the open source code repositories managed through [this GitHub organization](https://github.com/withastro).
+
 ## Reporting a Vulnerability
 
 <ins>**If you think you've found a security issue, please DO NOT report, discuss, or describe it on Discord or GitHub.**<ins>
@@ -10,6 +15,7 @@ Please include everything necessary to reproduce the problem when sending over i
 **_This is detrimental to the safety of all Astro users. No exceptions._**
 
 ## Embargo Policy
+
 Astro's Security Team members must share information only within the Astro Core and Security teams on a need-to-know basis to fix the related issue in Astro. The information members and others receive through participation in this group must not be made public, shared, or even hinted otherwise, except with prior explicit approval (which shall be handled on a case-by-case basis). This holds true until the agreed-upon public disclosure date/time is satisfied.
 
 As a clarifying example, this policy forbids Astro Security members from sharing list information with their employers; unless prior arrangements have been made directly with an employer.
