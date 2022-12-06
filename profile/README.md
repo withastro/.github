@@ -8,5 +8,3 @@
   powerful developer experience meets lightweight output.
   <br/><br/>
 </p>
-
-<p align="center"><small>Follow us on <a rel="me" href="https://m.webtoo.ls/@astro">Mastodon</a>!</small></p>
