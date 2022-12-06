@@ -9,4 +9,4 @@
   <br/><br/>
 </p>
 
-Follow us on <a rel="me" href="https://m.webtoo.ls/@astro">Mastodon</a>!
+<p align="center"><small>Follow us on <a rel="me" href="https://m.webtoo.ls/@astro">Mastodon</a>!</small></p>
