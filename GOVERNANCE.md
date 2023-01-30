@@ -178,7 +178,7 @@ The project Steward is currently: **@FredKSchott**
 #### Responsibilities
 
 - Access to the [@astrodotbuild Twitter account](https://twitter.com/astrodotbuild)
-- Administration privileges on the [astro GitHub org](https://github.com/snowpackjs)
+- Administration privileges on the [astro GitHub org](https://github.com/withastro)
 - Administration privileges on the [astro Discord server](https://astro.build/chat)
 - Publish access to the [`astro` npm package](https://www.npmjs.com/package/astro)
 - Domain registrar and DNS access to `astro.build` and all other domains
@@ -424,7 +424,7 @@ Anyone may report a violation. Violations can be reported in the following ways:
 
 - In private, via email to one or more stewards.
 - In private, via direct message to a project steward on Discord.
-- In public, via a GitHub comment (mentioning `@snowpackjs/maintainers`).
+- In public, via a GitHub comment (mentioning `@withastro/maintainers`).
 - In public, via the project Discord server (mentioning `staff`).
 
 ### Who gets involved?
