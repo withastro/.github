@@ -1,7 +1,7 @@
 # Privacy Policy
 
 This privacy policy applies to the `Bookmark Bot#5726` bot, which has access to all channels in the [Astro Discord Server](https://astro.build/chat). Your being a member of the Astro Discord Server indicates that you agree with this Privacy Policy.
-A user with the Support Squad, Maintainer, or Core role (a "privileged user") can trigger the bot to read and store a message by reacting to it using a "trigger emoji". The two trigger emojis are 💌 or 💡. 
+A user with the Support Squad, Maintainer, or Core role (a "privileged user") can trigger the bot to read and store a message by reacting to it using a "trigger emoji". The two trigger emojis are 💌 and 💡. 
 
 ## What we collect
 
