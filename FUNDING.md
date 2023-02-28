@@ -44,4 +44,4 @@ Core maintainers are eligible for a monthly stipend of up to $1000 per month, ba
 
 Any time spent on the project counts towards this stipend: writing code, writing documentation, triaging issues, participating in our Discord server, attending meetings (and meetups) on behalf of Astro, contributing to our upstream dependencies, and so on.
 
-Right now, the stipend is calculated per-hour at $50/hour, with a maximum of $1000 each month. These numbers may shift as our funding and team size change over time.
+Right now, the stipend is calculated per hour at $50/hour, with a maximum of $1000 each month. These numbers may shift as our funding and team size change over time.
