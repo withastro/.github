@@ -36,7 +36,7 @@ See all past expenses on our [Open Collective.](https://opencollective.com/astro
 
 ### Eligibility
 
-**Employees, contactors, and consultants of The Astro Technology Company are not eligible to receive funds from Open Collective.** These funds exist solely to serve the larger Astro open source community.
+**Employees, contractors, and consultants of The Astro Technology Company are not eligible to receive funds from Open Collective.** These funds exist solely to serve the larger Astro open-source community.
 
 ### Core Maintainer Stipend
 
