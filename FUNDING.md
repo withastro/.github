@@ -43,3 +43,5 @@ See all past expenses on our [Open Collective.](https://opencollective.com/astro
 A monthly stipend of up to $1000 per calendar month is available to eligible core maintainers. Any time spent improving or supporting the project in some way counts towards this stipend: writing code, writing documentation, triaging issues, offering support in our Discord server, attending meetings (and meetups) on behalf of Astro, contributing to our upstream dependencies, and so on.
 
 Right now, the stipend is calculated per hour at $50 per hour contributed, with a maximum of $1000 each month. These numbers may shift as our funding and team size change over time.
+
+To claim, file an expense on our [Open Collective.](https://opencollective.com/astrodotbuild). Include an invoice detailing the hours worked during the month. Using a time tracker is recommended.
