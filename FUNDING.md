@@ -1,6 +1,6 @@
 # Astro Project Funding
 
-_Last Updated: 02-09-2022_
+_Last Updated: 03-30-2023_
 
 ## Raising Funds
 
