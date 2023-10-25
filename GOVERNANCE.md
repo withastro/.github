@@ -280,6 +280,7 @@ Staff membership does not grant any additional abilities when it comes to voting
 - `@alumni` role on [Discord](https://astro.build/chat)
 - New name color on Discord: **light blue**.
 - Invitation to the private `#alumni` channel on Discord.
+- Invitation to the `alumni` team on GitHub.
 
 ## Retiring a Role (Alumni)
 
