@@ -300,7 +300,7 @@ Rejoining the project as a contributor (L1 or above) will automatically remove y
 
 Certain project decisions (like governance changes and membership nominations) require a vote. Below are the changes that require a vote, and the rules that govern that vote.
 
-The project Steward may initiate a vote for any unlisted project decision. [General Rules](#general-rules) will apply, along with any addition rules provided at the steward's discretion. If this unlisted project decision is expected to be repeated in the future, voting rules should be agreed on and then added to this document.
+The project Steward may initiate a vote for any unlisted project decision. [General Rules](#general-voting-rules) will apply, along with any addition rules provided at the steward's discretion. If this unlisted project decision is expected to be repeated in the future, voting rules should be agreed on and then added to this document.
 
 ### General Voting Rules
 
