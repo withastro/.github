@@ -31,7 +31,6 @@ Use this space to write a personal message in support of the nominee becoming ma
 ### Your Responsibility as a Voter:
 *(Please include this section as written, in its entirety)*
 
-**Your Responsibility as a Voter:**
 Please vote in the poll on or before [3 business days in the future]. Not voting within this period is equivalent to abstaining.
 
 **If voting yes**, please include a comment or elaboration if possible. Our community is large and others may not know the nominee very well, so knowing that other maintainers approve can help voters who have not interacted with the nominee very much. Some of these comments will also be included (anonymously) in the message sent to successful nominees as "Here are some things people said about you", so it is helpful to have some positive comments to include and make the message that much more personal!
