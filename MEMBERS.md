@@ -7,6 +7,7 @@ Members are listed in alphabetical order, by name. Members are free to use the f
 
 ## Core
 
+- Sarah Rainsberger [@sarah11918](https://github.com/sarah11918)
 - [Emanuele Stoppa @ematipico](https://github.com/ematipico)
 
 ## Maintainers
