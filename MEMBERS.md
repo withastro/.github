@@ -10,7 +10,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Emanuele Stoppa [@ematipico](https://github.com/ematipico)
 - Erika "Princesseuh" [@Princesseuh](https://github.com/princesseuh)
 - Sarah Rainsberger [@sarah11918](https://github.com/sarah11918)
-
+- Yan Thomas [@yanthomasdev](https://github.com/yanthomasdev)
 ## Maintainers
 
 ## Alumni
