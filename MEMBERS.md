@@ -7,9 +7,9 @@ Members are listed in alphabetical order, by first name. Members are free to use
 
 ## Core
 
-- Sarah Rainsberger [@sarah11918](https://github.com/sarah11918)
 - Emanuele Stoppa [@ematipico](https://github.com/ematipico)
 - Erika "Princesseuh" [@Princesseuh](https://github.com/princesseuh)
+- Sarah Rainsberger [@sarah11918](https://github.com/sarah11918)
 
 ## Maintainers
 
