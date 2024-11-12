@@ -17,7 +17,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Sarah Rainsberger [@sarah11918](https://github.com/sarah11918)
 - Reuben Tier [@TheOtterlord](https://github.com/TheOtterlord)
 - Yan Thomas [@yanthomasdev](https://github.com/yanthomasdev)
-
+- Fuzzy [@aFuzzyBear](https://github.com/afuzzybear
 ## Maintainers
 
 ## Core residency
