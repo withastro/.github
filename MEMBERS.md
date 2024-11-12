@@ -9,6 +9,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 
 - Ben Holmes [@bholmesdev](https://github.com/bholmesdev)
 - Chris Swithinbank [@delucis](https://github.com/delucis)
+- Darius [@itsMapleLeaf](https://github.com/itsMapleLeaf)
 - Emanuele Stoppa [@ematipico](https://github.com/ematipico)
 - Erika "Princesseuh" [@Princesseuh](https://github.com/princesseuh)
 - Florian Lefebvre [@florian-lefebvre](https://github.com/florian-lefebvre)
