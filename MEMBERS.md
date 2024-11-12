@@ -14,6 +14,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Erika "Princesseuh" [@Princesseuh](https://github.com/princesseuh)
 - Florian Lefebvre [@florian-lefebvre](https://github.com/florian-lefebvre)
 - HiDeoo [@hideoo](https://github.com/hideoo)
+- Ian Mathaiya [@ian](https://github.com/iann-mathaiya)
 - Sarah Rainsberger [@sarah11918](https://github.com/sarah11918)
 - Reuben Tier [@TheOtterlord](https://github.com/TheOtterlord)
 - Yan Thomas [@yanthomasdev](https://github.com/yanthomasdev)
