@@ -21,6 +21,8 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Nate Moore [@natemoo-re](https://github.com/natemoo-re)
 ## Maintainers
 
+- Luiz Ferraz "Fryuni" [@Fryuni](https://github.com/Fryuni)
+
 ## Core residency
 
 - Bjorn [@bluwy](https://github.com/bluwy)
