@@ -18,6 +18,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Yan Thomas [@yanthomasdev](https://github.com/yanthomasdev)
 - Fuzzy [@aFuzzyBear](https://github.com/afuzzybear)
 - Matthew Phillips [@matthewp](https://github.com/matthewp)
+- Nate Moore [@natemoo-re](https://github.com/natemoo-re)
 ## Maintainers
 
 ## Core residency
