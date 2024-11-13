@@ -26,6 +26,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Elian Van Cutsem [@ElianCodes](https://github.com/eliancodes)
 - Junseong Park [@jsparkdev](https://github.com/jsparkdev)
 - Luiz Ferraz "Fryuni" [@Fryuni](https://github.com/Fryuni)
+- Marcus Otterström [@MarcusOtter](https://github.com/MarcusOtter)
 - Marijn Kneppers "Mandar1jn" [@Mandar1jn](https://github.com/mandar1jn)
 - Martin Trapp [@martrapp](https://github.com/martrapp)
 - Tc001 [@Tc-001](https://github.com/Tc-001)
