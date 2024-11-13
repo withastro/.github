@@ -12,13 +12,13 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Emanuele Stoppa [@ematipico](https://github.com/ematipico)
 - Erika "Princesseuh" [@Princesseuh](https://github.com/princesseuh)
 - Florian Lefebvre [@florian-lefebvre](https://github.com/florian-lefebvre)
-- HiDeoo [@hideoo](https://github.com/hideoo)
-- Sarah Rainsberger [@sarah11918](https://github.com/sarah11918)
-- Reuben Tier [@TheOtterlord](https://github.com/TheOtterlord)
-- Yan Thomas [@yanthomasdev](https://github.com/yanthomasdev)
 - Fuzzy [@aFuzzyBear](https://github.com/afuzzybear)
+- HiDeoo [@hideoo](https://github.com/hideoo)
 - Matthew Phillips [@matthewp](https://github.com/matthewp)
 - Nate Moore [@natemoo-re](https://github.com/natemoo-re)
+- Reuben Tier [@TheOtterlord](https://github.com/TheOtterlord)
+- Sarah Rainsberger [@sarah11918](https://github.com/sarah11918)
+- Yan Thomas [@yanthomasdev](https://github.com/yanthomasdev)
 
 ## Maintainers
 
