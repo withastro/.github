@@ -20,6 +20,8 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Matthew Phillips [@matthewp](https://github.com/matthewp)
 ## Maintainers
 
+- Luiz Ferraz "Fryuni" [@Fryuni](https://github.com/Fryuni)
+
 ## Core residency
 
 - Bjorn [@bluwy](https://github.com/bluwy)
