@@ -18,7 +18,10 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Yan Thomas [@yanthomasdev](https://github.com/yanthomasdev)
 - Fuzzy [@aFuzzyBear](https://github.com/afuzzybear)
 - Matthew Phillips [@matthewp](https://github.com/matthewp)
+
 ## Maintainers
+
+- Elian Van Cutsem [@ElianCodes](https://github.com/eliancodes)
 
 ## Core residency
 
