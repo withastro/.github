@@ -22,6 +22,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 
 ## Maintainers
 
+- Alexander Niebuhr [@alexanderniebuhr](https://github.com/alexanderniebuhr)
 - Elian Van Cutsem [@ElianCodes](https://github.com/eliancodes)
 - Junseong Park [@jsparkdev](https://github.com/jsparkdev)
 - Luiz Ferraz "Fryuni" [@Fryuni](https://github.com/Fryuni)
