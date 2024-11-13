@@ -23,6 +23,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 
 ## Core residency
 
+- Darius [@itsMapleLeaf](https://github.com/itsMapleLeaf)
 - Matt Kane [@ascorbic](https://github.com/ascorbic)
 
 ## Alumni
