@@ -23,6 +23,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 
 ## Core residency
 
+- Bjorn [@bluwy](https://github.com/bluwy)
 - Darius [@itsMapleLeaf](https://github.com/itsMapleLeaf)
 - Matt Kane [@ascorbic](https://github.com/ascorbic)
 
