@@ -22,6 +22,8 @@ Members are listed in alphabetical order, by first name. Members are free to use
 ## Maintainers
 
 - Elian Van Cutsem [@ElianCodes](https://github.com/eliancodes)
+- Nate Moore [@natemoo-re](https://github.com/natemoo-re)
+- Luiz Ferraz "Fryuni" [@Fryuni](https://github.com/Fryuni)
 
 ## Core residency
 
