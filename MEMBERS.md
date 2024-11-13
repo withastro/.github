@@ -28,6 +28,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Luiz Ferraz "Fryuni" [@Fryuni](https://github.com/Fryuni)
 - Marijn Kneppers "Mandar1jn" [@Mandar1jn](https://github.com/mandar1jn)
 - Martin Trapp [@martrapp](https://github.com/martrapp)
+- Tc001 [@Tc-001](https://github.com/Tc-001)
 - 李瑞丰 "liruifengv" [@liruifengv](https://github.com/liruifengv)
 
 ## Core residency
