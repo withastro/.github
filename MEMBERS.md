@@ -25,6 +25,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Elian Van Cutsem [@ElianCodes](https://github.com/eliancodes)
 - Luiz Ferraz "Fryuni" [@Fryuni](https://github.com/Fryuni)
 - Marijn Kneppers "Mandar1jn" [@Mandar1jn](https://github.com/mandar1jn)
+- Junseong Park [@jsparkdev](https://github.com/jsparkdev)
 
 ## Core residency
 
