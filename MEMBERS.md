@@ -33,6 +33,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Tc001 [@Tc-001](https://github.com/Tc-001)
 - Tibor Schiemann [@hippotastic](https://github.com/hippotastic)
 - 李瑞丰 "liruifengv" [@liruifengv](https://github.com/liruifengv)
+- Moustapha Kebe [@happydev](https://github.com/Moustaphadev)
 
 ## Core residency
 
@@ -40,6 +41,5 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Darius [@itsMapleLeaf](https://github.com/itsMapleLeaf)
 - Ian Mathaiya [@ian](https://github.com/iann-mathaiya)
 - Matt Kane [@ascorbic](https://github.com/ascorbic)
-- Moustapha Kebe [@happydev](https://github.com/Moustaphadev)
 
 ## Alumni
