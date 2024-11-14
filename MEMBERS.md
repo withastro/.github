@@ -29,6 +29,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Marcus Otterström [@MarcusOtter](https://github.com/MarcusOtter)
 - Marijn Kneppers "Mandar1jn" [@Mandar1jn](https://github.com/mandar1jn)
 - Martin Trapp [@martrapp](https://github.com/martrapp)
+- Ming-jun Lu [@mingjunlu](https://github.com/mingjunlu)
 - Tc001 [@Tc-001](https://github.com/Tc-001)
 - Tibor Schiemann [@hippotastic](https://github.com/hippotastic)
 - 李瑞丰 "liruifengv" [@liruifengv](https://github.com/liruifengv)
