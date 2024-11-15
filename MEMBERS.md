@@ -7,6 +7,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 ## Core
 
 - Ben Holmes [@bholmesdev](https://github.com/bholmesdev)
+- Caleb Jasik [@jasikpark](https://github.com/jasikpark)
 - Chris Swithinbank [@delucis](https://github.com/delucis)
 - Emanuele Stoppa [@ematipico](https://github.com/ematipico)
 - Erika "Princesseuh" [@Princesseuh](https://github.com/princesseuh)
@@ -18,7 +19,6 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Reuben Tier [@TheOtterlord](https://github.com/TheOtterlord)
 - Sarah Rainsberger [@sarah11918](https://github.com/sarah11918)
 - Yan Thomas [@yanthomasdev](https://github.com/yanthomasdev)
-- Caleb Jasik [@jasikpark](https://github.com/jasikpark)
 
 ## Maintainers
 
