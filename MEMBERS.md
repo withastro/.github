@@ -4,6 +4,8 @@ Members are listed in alphabetical order, by first name. Members are free to use
 
 ## Steward
 
+- Fred K Schott [@fredkschott](https://github.com/fredkschott)
+
 ## Core
 
 - Ben Holmes [@bholmesdev](https://github.com/bholmesdev)
