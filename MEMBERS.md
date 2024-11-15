@@ -42,5 +42,6 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Darius [@itsMapleLeaf](https://github.com/itsMapleLeaf)
 - Ian Mathaiya [@ian](https://github.com/iann-mathaiya)
 - Matt Kane [@ascorbic](https://github.com/ascorbic)
+- Thuy Doan [@clearlythuydoan](https://github.com/clearlythuydoan)
 
 ## Alumni
