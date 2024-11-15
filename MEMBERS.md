@@ -18,6 +18,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Reuben Tier [@TheOtterlord](https://github.com/TheOtterlord)
 - Sarah Rainsberger [@sarah11918](https://github.com/sarah11918)
 - Yan Thomas [@yanthomasdev](https://github.com/yanthomasdev)
+- Caleb Jasik [@jasikpark](https://github.com/jasikpark)
 
 ## Maintainers
 
