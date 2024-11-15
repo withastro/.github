@@ -4,7 +4,6 @@ Members are listed in alphabetical order, by first name. Members are free to use
 
 ## Steward
 
-
 ## Core
 
 - Ben Holmes [@bholmesdev](https://github.com/bholmesdev)
@@ -45,3 +44,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Thuy Doan [@clearlythuydoan](https://github.com/clearlythuydoan)
 
 ## Alumni
+
+- [@4lch4](https://github.com/orgs/withastro/people/4lch4)
+- [@itskitto](https://github.com/itskitto)
+- [@Hanawa02](https://github.com/Hanawa02)
