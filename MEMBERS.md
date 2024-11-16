@@ -24,6 +24,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 
 ## Maintainers
 
+- Atharva [@at-the-vr](https://github.com/at-the-vr)
 - Alexander Niebuhr [@alexanderniebuhr](https://github.com/alexanderniebuhr)
 - Elian Van Cutsem [@ElianCodes](https://github.com/eliancodes)
 - Junseong Park [@jsparkdev](https://github.com/jsparkdev)
