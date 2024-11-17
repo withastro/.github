@@ -28,6 +28,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Alexander Niebuhr [@alexanderniebuhr](https://github.com/alexanderniebuhr)
 - Elian Van Cutsem [@ElianCodes](https://github.com/eliancodes)
 - Junseong Park [@jsparkdev](https://github.com/jsparkdev)
+- Kevin [@kevinzunigacuellar](https://github.com/kevinzunigacuellar)
 - Luiz Ferraz "Fryuni" [@Fryuni](https://github.com/Fryuni)
 - Marcus Otterström [@MarcusOtter](https://github.com/MarcusOtter)
 - Marijn Kneppers "Mandar1jn" [@Mandar1jn](https://github.com/mandar1jn)
