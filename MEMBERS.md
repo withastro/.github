@@ -36,6 +36,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Ming-jun Lu [@mingjunlu](https://github.com/mingjunlu)
 - Moustapha Kebe [@happydev](https://github.com/Moustaphadev)
 - Oliver Speir [@oliverspeir](https://github.com/oliverspeir)
+- Rafid Muhymin Wafi [@RafidMuhymin](https://github.com/RafidMuhymin)
 - Tc001 [@Tc-001](https://github.com/Tc-001)
 - Tibor Schiemann [@hippotastic](https://github.com/hippotastic)
 - 李瑞丰 "liruifengv" [@liruifengv](https://github.com/liruifengv)
