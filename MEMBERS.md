@@ -39,6 +39,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Rafid Muhymin Wafi [@RafidMuhymin](https://github.com/RafidMuhymin)
 - Tc001 [@Tc-001](https://github.com/Tc-001)
 - Tibor Schiemann [@hippotastic](https://github.com/hippotastic)
+- Wassim Filali [@wassfila](https://github.com/wassfila)
 - 李瑞丰 "liruifengv" [@liruifengv](https://github.com/liruifengv)
 
 ## Core residency
