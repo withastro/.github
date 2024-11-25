@@ -418,4 +418,4 @@ Responses will be determined by the reviewers on the basis of the information ga
 
 ---
 
-Inspired by [ESLint](https://eslint.org/docs/6.0.0/maintainer-guide/governance), [Rome](https://github.com/rome/tools/blob/main/GOVERNANCE.md) and [Blitz](https://blitzjs.com/docs/maintainers).
+Inspired by [ESLint](https://eslint.org/docs/6.0.0/maintainer-guide/governance), [Rome](https://github.com/rome/tools/blob/203b8efaf3ff087e82b97c484dedc5b5c5f15bcd/GOVERNANCE.md) and [Blitz](https://blitzjs.com/docs/maintainers).
