@@ -10,7 +10,7 @@ _Question:_ Hey, I'm beginning with Astro. I tried to use `document` in my Astro
 
 | Answer 1                                                                           | Answer 2                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| You can't manipulate the DOM from an Astro file 😂 Astro is a static site builder. | Hey, welcome to the community! <br/> Astro pages and components run on the server. Because of that, you won't have access to everything you're used to when writing JavaScript for the web. You're on the right track, though - you can access `document` from a `<script>` tag in your Astro file. <br/> Check out the docs here, and let me know if you need any more help! https://docs.astro.build/en/core-concepts/astro-components/#client-side-scripts |
+| You can't manipulate the DOM from an Astro file 😂 Astro is a static site builder. | Hey, welcome to the community! <br/> Astro pages and components run on the server. Because of that, you won't have access to everything you're used to when writing JavaScript for the web. You're on the right track, though - you can access `document` from a `<script>` tag in your Astro file. <br/> Check out the docs here, and let me know if you need any more help! https://docs.astro.build/en/guides/client-side-scripts/ |
 
 Answer 2 centered the user's feelings and as such, took more effort. However, it made a significant difference. This response:
 
@@ -39,6 +39,6 @@ Our community prides itself on being _positive_, _helpful_, and _inclusive_. If 
 - To stay inclusive:
 
   - Refer to someone by their expressed name. Don't use your own nicknames for someone (unless you're friends with established trust).
-  - Refer to someone by their expressed pronouns. If this wasn't expressed, use [`they/them`](http://pronoun.is/they/them), which in English can be used to refer to individuals of any gender.
+  - Refer to someone by their expressed pronouns. If this wasn't expressed, use [`they/them`](https://en.wikipedia.org/wiki/Singular_they), which in English can be used to refer to individuals of any gender.
   - If you sense hesitancy in someone's participation, make it clear that you're happy they're participating.
   - Advocate for someone if you see that they're being dismissed.
