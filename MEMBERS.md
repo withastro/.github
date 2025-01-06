@@ -26,6 +26,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 
 - Atharva [@at-the-vr](https://github.com/at-the-vr)
 - Alexander Niebuhr [@alexanderniebuhr](https://github.com/alexanderniebuhr)
+- Armand Philippot [@ArmandPhilippot](https://github.com/ArmandPhilippot)
 - Elian Van Cutsem [@ElianCodes](https://github.com/eliancodes)
 - Junseong Park [@jsparkdev](https://github.com/jsparkdev)
 - Kevin [@kevinzunigacuellar](https://github.com/kevinzunigacuellar)
