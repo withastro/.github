@@ -279,7 +279,6 @@ Staff membership does not grant any additional abilities when it comes to voting
 
 - `@alumni` role on [Discord](https://astro.build/chat)
 - New name color on Discord: **light blue**.
-- Invitation to the private `#alumni` channel on Discord.
 - Invitation to the `alumni` team on GitHub.
 
 ## Retiring a Role (Alumni)
@@ -288,7 +287,9 @@ Contributor roles are granted for as long as the person wishes to engage with th
 
 **Alumni** is a special designation and role for any person who was once an active maintainer (L2 or above) but is now no longer actively involved. By retiring and joining Alumni you trade-in your current set of roles, privileges, and responsibilities for a new, special Alumni role (which comes with its own set of Privileges, as described above).
 
-As a Maintainer (L2 or above) you can retire your role at any time by pinging the project Steward and requesting Alumni status. You can initiate this action yourself if you know ahead-of-time that you need to step away from the project. Or, if you have gone several months without interacting with the Astro community, the project Steward may actively reach out to you to discuss retiring as a way to make room for new contributors.
+As a Maintainer (L2 or above) you can retire your role at any time by pinging the project Steward and requesting Alumni status. You can initiate this action yourself if you know ahead-of-time that you need to step away from the project.
+
+If you are inactive for a period of time longer than six months with the Astro community, the project Steward may retire your role and reach out to you to let you know.
 
 As an Alumni member, you are still a part of the Astro community and can continue to be a part of our Discord, GitHub, and anywhere else. You may also request to have your old roles reinstated at any time through the normal nomination & voting process for that role.
 
