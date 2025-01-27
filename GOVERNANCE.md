@@ -360,7 +360,6 @@ If the pull request submitter is not a Core Member, the PR can be closed by any 
 
 Astro features are discussed using a model called [Consensus-seeking decision-making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making). This model attempts to achieve consensus on all significant changes to Astro, but has a fallback voting procedure in place if consensus appears unattainable.
 
-**Who can vote:** All [TSC](#technical-steering-committee-tsc) members and Core members.
 
 1. Anyone can submit an RFC to suggest changes to Astro.
 2. A trivial change can be discussed and approved entirely within the RFC GitHub issue, as long as there are no objections from Core or TSC members. This is not considered a formal vote.
