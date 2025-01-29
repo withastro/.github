@@ -360,11 +360,12 @@ If the pull request submitter is not a Core Member, the PR can be closed by any 
 
 Astro features are discussed using a model called [Consensus-seeking decision-making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making). This model attempts to achieve consensus on all significant changes to Astro, but has a fallback voting procedure in place if consensus appears unattainable.
 
+A RFC async meeting is held on ad-hoc basis by Core Contributors and TSC to decided which proposals are accepted
 
 1. Anyone can submit an RFC to suggest changes to Astro.
 2. A trivial change can be discussed and approved entirely within the RFC GitHub issue, as long as there are no objections from Core or TSC members. This is not considered a formal vote.
-3. A non-trivial, significant change should be discussed within the RFC and approved during an RFC meeting call. In some cases, an RFC may be approved outside of an RFC meeting using Pull Request reviews as a proxy for votes.
-4. During an RFC meeting, the person leading the call will attempt to achieve consensus on the RFC proposal.
+3. A non-trivial, significant change should be discussed within the RFC and approved during an RFC async meeting. In some cases, an RFC may be approved outside of an RFC meeting using Pull Request reviews as a proxy for votes.
+4. During an RFC async meeting, the person leading the meeting will attempt to achieve consensus on the RFC proposal.
 5. **If consensus is reached:** the RFC is approved.
 6. **If consensus is not reached:** The RFC author and TSC members must make all reasonable attempts to resolve issues and reach consensus in GitHub or a follow-up RFC meeting. The process of reaching consensus can take time, and should not be rushed as long as all participants are making a reasonable effort to respond.
 7. **If consensus still cannot be reached:** The project Steward may invoke [rough consensus](https://en.wikipedia.org/wiki/Rough_consensus) to resolve an RFC that has not achieved absolute consensus, as described below (borrowed from the [IETF](https://datatracker.ietf.org/doc/html/rfc2418)):
