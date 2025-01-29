@@ -51,10 +51,11 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Darius [@itsMapleLeaf](https://github.com/itsMapleLeaf)
 - Ian Mathaiya [@ian](https://github.com/iann-mathaiya)
 - Matt Kane [@ascorbic](https://github.com/ascorbic)
-- Thuy Doan [@clearlythuydoan](https://github.com/clearlythuydoan)
 
 ## Alumni
 
 - [@4lch4](https://github.com/orgs/withastro/people/4lch4)
+- Thuy Doan [@clearlythuydoan](https://github.com/clearlythuydoan)
 - [@itskitto](https://github.com/itskitto)
 - [@Hanawa02](https://github.com/Hanawa02)
+- [@lilnasy](https://github.com/lilnasy)
