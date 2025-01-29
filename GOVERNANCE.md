@@ -2,10 +2,10 @@
 
 This document outlines the governance model for Astro. This includes detailed descriptions of different roles, nomination processes, code review processes, and Code of Conduct enforcement.
 
-👉 **All community members must follow the [Code of Conduct (CoC)](CODE_OF_CONDUCT.md).**
+👉 **All community members must follow the [Code of Conduct (CoC)](CODE_OF_CONDUCT.md).**  
 Consequences for CoC violations are detailed in [Moderation](#moderation).
 
-👉 **Want to trigger a vote, nomination, or perform some other action?**
+👉 **Want to trigger a vote, nomination, or perform some other action?**  
 Scroll down to [Playbook](#governance-playbook).
 
 ## Get Involved
