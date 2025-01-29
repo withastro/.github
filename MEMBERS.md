@@ -55,7 +55,6 @@ Members are listed in alphabetical order, by first name. Members are free to use
 ## Alumni
 
 - [@4lch4](https://github.com/orgs/withastro/people/4lch4)
-- Thuy Doan [@clearlythuydoan](https://github.com/clearlythuydoan)
 - [@itskitto](https://github.com/itskitto)
 - [@Hanawa02](https://github.com/Hanawa02)
 - [@lilnasy](https://github.com/lilnasy)
