@@ -2,10 +2,10 @@
 
 This document outlines the governance model for Astro. This includes detailed descriptions of different roles, nomination processes, code review processes, and Code of Conduct enforcement.
 
-👉 **All community members must follow the [Code of Conduct (CoC)](CODE_OF_CONDUCT.md).**  
+👉 **All community members must follow the [Code of Conduct (CoC)](CODE_OF_CONDUCT.md).**
 Consequences for CoC violations are detailed in [Moderation](#moderation).
 
-👉 **Want to trigger a vote, nomination, or perform some other action?**  
+👉 **Want to trigger a vote, nomination, or perform some other action?**
 Scroll down to [Playbook](#governance-playbook).
 
 ## Get Involved
@@ -289,7 +289,7 @@ Contributor roles are granted for as long as the person wishes to engage with th
 
 As a Maintainer (L2 or above) you can retire your role at any time by pinging the project Steward and requesting Alumni status. You can initiate this action yourself if you know ahead-of-time that you need to step away from the project.
 
-If you are inactive for a period of time longer than six months with the Astro community, the project Steward may retire your role and reach out to you to let you know.
+If you are not actively contributing to Astro’s repositories or the Astro community for longer than six months, the project Steward may proactively retire your role, designate you as a project alumnus, and notify you of the change.
 
 As an Alumni member, you are still a part of the Astro community and can continue to be a part of our Discord, GitHub, and anywhere else. You may also request to have your old roles reinstated at any time through the normal nomination & voting process for that role.
 
