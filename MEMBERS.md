@@ -52,6 +52,11 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Ian Mathaiya [@ian](https://github.com/iann-mathaiya)
 - Matt Kane [@ascorbic](https://github.com/ascorbic)
 
+## Technical Steering Committee (TSC)
+
+- Fred K Schott [@fredkschott](https://github.com/fredkschott)
+- Matthew Phillips [@matthewp]([@matthewp](https://github.com/matthewp)
+
 ## Alumni
 
 - [@4lch4](https://github.com/orgs/withastro/people/4lch4)
