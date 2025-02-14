@@ -47,15 +47,13 @@ Members are listed in alphabetical order, by first name. Members are free to use
 
 ## Core residency
 
-- Bjorn [@bluwy](https://github.com/bluwy)
-- Darius [@itsMapleLeaf](https://github.com/itsMapleLeaf)
 - Ian Mathaiya [@ian](https://github.com/iann-mathaiya)
 - Matt Kane [@ascorbic](https://github.com/ascorbic)
 
 ## Technical Steering Committee (TSC)
 
 - Fred K Schott [@fredkschott](https://github.com/fredkschott)
-- Matthew Phillips [@matthewp]([@matthewp](https://github.com/matthewp)
+- Matthew Phillips [@matthewp](https://github.com/matthewp)
 
 ## Alumni
 
