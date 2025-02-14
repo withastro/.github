@@ -61,3 +61,8 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - [@itskitto](https://github.com/itskitto)
 - [@Hanawa02](https://github.com/Hanawa02)
 - [@lilnasy](https://github.com/lilnasy)
+- [@thepassle](https://github.com/thepassle)
+- [@antonyfaris](https://github.com/antonyfaris)
+- [@drwpow](https://github.com/drwpow)
+- [@JuanM04](https://github.com/JuanM04)
+- [@readonlychild](https://github.com/readonlychild)
