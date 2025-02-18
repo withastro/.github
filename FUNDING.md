@@ -23,6 +23,7 @@ _List borrowed from [ESLint: "Funding ESLint's Future."](https://eslint.org/blog
 100% of money raised is invested back into the community. Every dollar spent **must** support and/or improve Astro in some way. For example:
 
 - **Swag!** Creating stickers, t-shirts, etc. for sponsors and community members.
+- **Improve codebase.**
 - **Improve documentation.**
 - **Improve translations.**
 - **Improve website.**
@@ -34,13 +35,9 @@ _List borrowed from [ESLint: "Funding ESLint's Future."](https://eslint.org/blog
 
 See all past expenses on our [Open Collective.](https://opencollective.com/astrodotbuild)
 
-### Eligibility
-
-**Employees, contractors, and consultants of The Astro Technology Company are not eligible to receive funds from Open Collective.** These funds exist solely to serve the larger Astro open-source community.
-
 ### Core Maintainer Stipend
 
-A monthly stipend of up to $1000 per calendar month is available to [eligible](#eligibility) core maintainers. Any time spent improving or supporting the project in some way counts towards this stipend: writing code, writing documentation, triaging issues, offering support in our Discord server, attending meetings (and meetups) on behalf of Astro, contributing to our upstream dependencies, and so on.
+A monthly stipend of up to $1000 per calendar month is available to all core maintainers. Any time spent improving or supporting the project in some way -- outside of an existing contract or agreement with The Astro Technology Company -- counts towards this stipend: writing code, writing documentation, triaging issues, offering support in our Discord server, attending meetings (and meetups) on behalf of Astro, contributing to our upstream dependencies, and so on.
 
 Right now, the stipend is calculated per hour at $50 per hour contributed, with a maximum of $1000 each month. These numbers may shift as our funding and team size change over time.
 
