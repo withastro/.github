@@ -234,8 +234,6 @@ A TSC member guides the direction of the project and ensures a healthy future fo
 
 A TSC member has significant sway in software design decisions. For this reason, coding experience is critical for this role. TSC membership is one of the only roles that requires a significant contribution history of code to the Astro project on GitHub.
 
-TSC seats are not time-limited. The size of the TSC can not be larger than 5 members. This is to ensure that the TSC is able to make decisions efficiently.
-
 #### Privileges
 
 - `@tsc` role on [Discord](https://astro.build/chat)
@@ -366,7 +364,7 @@ Astro features are discussed using a model called [Consensus-seeking decision-ma
 **Who can vote:** All [TSC](#technical-steering-committee-tsc) members.
 
 1. Anyone can submit an RFC to suggest changes to Astro.
-2. Changes can be discussed and approved entirely within the RFC GitHub issue. TSC members can vote on the RFC via a review of either **Approve (For)** or **Change Requested (Against)**, in the case of Pull Requests. For issues, TSC members can vote via a comment.
+2. Changes can be discussed and approved entirely within the RFC GitHub issue. TSC members must vote on the RFC via a review of either **Approve (For)** or **Change Requested (Against)**, in the case of Pull Requests. For issues, TSC members must vote via a comment.
 3. **If consensus is reached:** the RFC is approved.
 4. **If consensus is not reached:** The RFC author and TSC members must make all reasonable attempts to resolve issues and reach consensus in GitHub or a follow-up RFC meeting. The process of reaching consensus can take time, and should not be rushed as long as all participants are making a reasonable effort to respond.
 5. **If consensus still cannot be reached:** The project Steward may invoke [rough consensus](https://en.wikipedia.org/wiki/Rough_consensus) to resolve an RFC that has not achieved absolute consensus, as described below (borrowed from the [IETF](https://datatracker.ietf.org/doc/html/rfc2418)):
