@@ -342,6 +342,21 @@ This process kicks off once a valid nomination has been made. See ["Core Member 
 8. **If the vote passes:** the nominee will be made a Core Member and all privileges will be made available to them.
 9. **If the vote fails:** the project Steward is responsible for informing the nominee with constructive, actionable feedback. (Note: this is not required if the nomination was made in the #core channel, or if the nominee was otherwise not made aware of their nomination).
 
+## Voting: TSC Member Nomination
+
+This process kicks off once a valid nomination has been made. See ["TSC Member - Nomination Process"](#nomination-4) above for more details on nomination.
+
+**Who can vote:** All Core members (L3 and above).
+
+1. A vote thread should be created in Discord `#core` channel (the private channel for Core members).
+2. A vote thread can be created by any Core member, or the Steward.
+3. Once a vote thread is created, existing Core members can discuss the nomination in the thread.
+4. The normal 3 day voting & discussion window begins with the thread creation.
+5. Voting can be done in the thread (visible to other voters) or in a private DM to the project Steward.
+7. The vote must receive an overwhelming majority (70%+) to pass.
+8. **If the vote passes:** the nominee will be made a TSC Member and all privileges will be made available to them.
+9. **If the vote fails:** the project Steward is responsible for informing the nominee with constructive, actionable feedback. (Note: this is not required if the nomination was made in the #core channel, or if the nominee was otherwise not made aware of their nomination).
+
 ## Voting: Governance Change
 
 A vote is initiated once a pull request to the GOVERNANCE.md file is submitted by a Core Member.
