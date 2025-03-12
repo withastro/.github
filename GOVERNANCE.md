@@ -346,7 +346,7 @@ This process kicks off once a valid nomination has been made. See ["Core Member 
 
 This process kicks off once a valid nomination has been made. See ["TSC Member - Nomination Process"](#nomination-4) above for more details on nomination.
 
-**Who can vote:** All Core members (L3 and above).
+**Who can vote:** All Core members (L3 and above) except the nominee.
 
 1. A vote thread should be created in Discord `#core` channel (the private channel for Core members).
 2. A vote thread can be created by any Core member, or the Steward.
