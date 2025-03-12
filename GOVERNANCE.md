@@ -355,7 +355,7 @@ This process kicks off once a valid nomination has been made. See ["TSC Member -
 5. Voting can be done in the thread (visible to other voters) or in a private DM to the project Steward.
 7. The vote must receive an overwhelming majority (70%+) to pass.
 8. **If the vote passes:** the nominee will be made a TSC Member and all privileges will be made available to them.
-9. **If the vote fails:** the project Steward is responsible for informing the nominee with constructive, actionable feedback. (Note: this is not required if the nomination was made in the #core channel, or if the nominee was otherwise not made aware of their nomination).
+9. **If the vote fails:** the project Steward is responsible for informing the nominee with constructive, actionable feedback. (Note: this is not required if the nominee was not made aware of their nomination).
 
 ## Voting: Governance Change
 
