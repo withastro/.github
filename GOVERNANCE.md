@@ -234,6 +234,8 @@ A TSC member guides the direction of the project and ensures a healthy future fo
 
 A TSC member has significant sway in software design decisions. For this reason, coding experience is critical for this role. TSC membership is one of the only roles that requires a significant contribution history of code to the Astro project on GitHub.
 
+The Steward is not eligible for the TSC, but may participate in TSC discussions and has a role in guiding the conversation to consensus (see [Voting: RFC Proposals]([https://github.com/withastro/.github/blob/main/GOVERNANCE.md#technical-steering-committee-tsc](https://github.com/withastro/.github/blob/main/GOVERNANCE.md#voting-rfc-proposals)).
+
 #### Privileges
 
 - `@tsc` role on [Discord](https://astro.build/chat)
@@ -253,10 +255,9 @@ A TSC member has significant sway in software design decisions. For this reason,
 
 #### Nomination
 
-- To be nominated, a nominee is expected to already be active in technical discussions and performing some of the responsibilities of a TSC member.
-- You can be nominated by any existing Core member (L3 or above). Note: This includes all existing TSC members as well.
-- Once nominated, there will be a vote by existing Core members.
-- See [vote rules & requirements](#voting) for info on how this vote works.
+- The makeup of the TSC is decided by the project Steward.
+- A core member may self-nominate by sending a private message to the Steward. The Steward shall provide time and effort to discuss the nomination with any nominee, and provide feedback that would be helpful to the nominee as they evaluate their own nomination.
+- The Steward must communicate all TSC membership changes in the Discord `#core` channel (the private channel for Core members).
 
 ### Staff
 
