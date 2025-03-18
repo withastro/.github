@@ -17,6 +17,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Fuzzy [@aFuzzyBear](https://github.com/afuzzybear)
 - HiDeoo [@hideoo](https://github.com/hideoo)
 - Luiz Ferraz "Fryuni" [@Fryuni](https://github.com/Fryuni)
+- Matt Kane [@ascorbic](https://github.com/ascorbic)
 - Matthew Phillips [@matthewp](https://github.com/matthewp)
 - Nate Moore [@natemoo-re](https://github.com/natemoo-re)
 - Reuben Tier [@TheOtterlord](https://github.com/TheOtterlord)
@@ -48,7 +49,6 @@ Members are listed in alphabetical order, by first name. Members are free to use
 ## Core residency
 
 - Ian Mathaiya [@ian](https://github.com/iann-mathaiya)
-- Matt Kane [@ascorbic](https://github.com/ascorbic)
 
 ## Technical Steering Committee (TSC)
 
