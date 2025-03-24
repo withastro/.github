@@ -234,7 +234,10 @@ A TSC member guides the direction of the project and ensures a healthy future fo
 
 A TSC member has significant sway in software design decisions. For this reason, coding experience is critical for this role. TSC membership is one of the only roles that requires a significant contribution history of code to the Astro project on GitHub.
 
+The TSC is limited to a maximum of __5__ members at any one time. This size ensures adequate coverage of important areas of expertise balanced with the ability to make decisions efficiently.
+
 The Steward is not eligible for the TSC, but may participate in TSC discussions and has a role in guiding the conversation to consensus (see [Voting: RFC Proposals](#voting-rfc-proposals)).
+
 
 #### Privileges
 
