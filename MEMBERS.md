@@ -52,7 +52,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 
 ## Technical Steering Committee (TSC)
 
-- Fred K Schott [@fredkschott](https://github.com/fredkschott)
+- Florian Lefebvre [@florian-lefebvre](https://github.com/florian-lefebvre)
 - Matthew Phillips [@matthewp](https://github.com/matthewp)
 
 ## Alumni
