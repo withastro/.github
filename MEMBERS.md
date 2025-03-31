@@ -52,7 +52,9 @@ Members are listed in alphabetical order, by first name. Members are free to use
 
 ## Technical Steering Committee (TSC)
 
+- Emanuele Stoppa [@ematipico](https://github.com/ematipico)
 - Florian Lefebvre [@florian-lefebvre](https://github.com/florian-lefebvre)
+- Matt Kane [@ascorbic](https://github.com/ascorbic)
 - Matthew Phillips [@matthewp](https://github.com/matthewp)
 
 ## Alumni
