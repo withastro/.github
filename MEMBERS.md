@@ -8,6 +8,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 
 ## Core
 
+- Alexander Niebuhr [@alexanderniebuhr](https://github.com/alexanderniebuhr)
 - Ben Holmes [@bholmesdev](https://github.com/bholmesdev)
 - Caleb Jasik [@jasikpark](https://github.com/jasikpark)
 - Chris Swithinbank [@delucis](https://github.com/delucis)
@@ -27,7 +28,6 @@ Members are listed in alphabetical order, by first name. Members are free to use
 ## Maintainers
 
 - Atharva [@at-the-vr](https://github.com/at-the-vr)
-- Alexander Niebuhr [@alexanderniebuhr](https://github.com/alexanderniebuhr)
 - Armand Philippot [@ArmandPhilippot](https://github.com/ArmandPhilippot)
 - Elian Van Cutsem [@ElianCodes](https://github.com/eliancodes)
 - Junseong Park [@jsparkdev](https://github.com/jsparkdev)
