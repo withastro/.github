@@ -66,5 +66,6 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - [@thepassle](https://github.com/thepassle)
 - [@antonyfaris](https://github.com/antonyfaris)
 - [@drwpow](https://github.com/drwpow)
+- [@tony-sull](https://github.com/tony-sull)
 - [@JuanM04](https://github.com/JuanM04)
 - [@readonlychild](https://github.com/readonlychild)
