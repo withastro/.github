@@ -27,6 +27,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 
 ## Maintainers
 
+- Adam Matthiesen [@Adammatthiesen](https://github.com/Adammatthiesen)
 - Atharva [@at-the-vr](https://github.com/at-the-vr)
 - Armand Philippot [@ArmandPhilippot](https://github.com/ArmandPhilippot)
 - Elian Van Cutsem [@ElianCodes](https://github.com/eliancodes)
