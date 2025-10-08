@@ -28,6 +28,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Atharva [@at-the-vr](https://github.com/at-the-vr)
 - Elian Van Cutsem [@ElianCodes](https://github.com/eliancodes)
 - Junseong Park [@jsparkdev](https://github.com/jsparkdev)
+- Kenji [@jp-knj](https://github.com/jp-knj)
 - Kevin [@kevinzunigacuellar](https://github.com/kevinzunigacuellar)
 - Louis Escher [@louisescher](https://github.com/louisescher)
 - Marcus Otterström [@MarcusOtter](https://github.com/MarcusOtter)
