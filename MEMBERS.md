@@ -25,8 +25,6 @@ Members are listed in alphabetical order, by first name. Members are free to use
 ## Maintainers
 
 - Adam Matthiesen [@Adammatthiesen](https://github.com/Adammatthiesen)
-- Atharva [@at-the-vr](https://github.com/at-the-vr)
-- Elian Van Cutsem [@ElianCodes](https://github.com/eliancodes)
 - Junseong Park [@jsparkdev](https://github.com/jsparkdev)
 - Kenji [@jp-knj](https://github.com/jp-knj)
 - Kevin [@kevinzunigacuellar](https://github.com/kevinzunigacuellar)
@@ -38,16 +36,8 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Moustapha Kebe [@happydev](https://github.com/Moustaphadev)
 - Oliver Speir [@oliverspeir](https://github.com/oliverspeir)
 - Paul Valladares "dreyfus" [@dreyfus92](https://github.com/dreyfus92)
-- Rafid Muhymin Wafi [@RafidMuhymin](https://github.com/RafidMuhymin)
-- Tc001 [@Tc-001](https://github.com/Tc-001)
 - Thomas Bonnet [@thomasbnt](https://github.com/thomasbnt)
-- Tibor Schiemann [@hippotastic](https://github.com/hippotastic)
-- Wassim Filali [@wassfila](https://github.com/wassfila)
 - 李瑞丰 "liruifengv" [@liruifengv](https://github.com/liruifengv)
-
-## Core residency
-
-- Ian Mathaiya [@ian](https://github.com/iann-mathaiya)
 
 ## Technical Steering Committee (TSC)
 
@@ -72,3 +62,9 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Caleb Jasik [@jasikpark](https://github.com/jasikpark)
 - Fuzzy [@aFuzzyBear](https://github.com/afuzzybear)
 - Nate Moore [@natemoo-re](https://github.com/natemoo-re)
+- Atharva [@at-the-vr](https://github.com/at-the-vr)
+- Elian Van Cutsem [@ElianCodes](https://github.com/eliancodes)
+- Rafid Muhymin Wafi [@RafidMuhymin](https://github.com/RafidMuhymin)
+- Tc001 [@Tc-001](https://github.com/Tc-001)
+- Tibor Schiemann [@hippotastic](https://github.com/hippotastic)
+- Wassim Filali [@wassfila](https://github.com/wassfila)
