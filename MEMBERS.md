@@ -36,6 +36,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Moustapha Kebe [@happydev](https://github.com/Moustaphadev)
 - Oliver Speir [@oliverspeir](https://github.com/oliverspeir)
 - Paul Valladares "dreyfus" [@dreyfus92](https://github.com/dreyfus92)
+- Shinya Fujino [@morinokami](https://github.com/morinokami)
 - Thomas Bonnet [@thomasbnt](https://github.com/thomasbnt)
 - 李瑞丰 "liruifengv" [@liruifengv](https://github.com/liruifengv)
 
