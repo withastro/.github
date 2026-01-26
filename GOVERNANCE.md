@@ -157,7 +157,7 @@ Not every contributor will reach this level, and that's okay! L2 Maintainers sti
 - No nomination abilities.
 - Can be revoked at any time by the project Steward.
 
-Because of these limitations, this type of Core membership is useful for anyone who has been brought in to work on or contribute to the Astro project without rising through our normal contributor levels. For example: an Astro designer or developer advocate hired by The Astro Technology Company to assist the community could be nominated for a Core Residency role without having a previously earned contributor level.
+Because of these limitations, this type of Core membership is useful for anyone who has been brought in to work on or contribute to the Astro project without rising through our normal contributor levels. For example: an Astro designer or developer advocate hired by Cloudflare to assist the community could be nominated for a Core Residency role without having a previously earned contributor level.
 
 A Core Residency nomination must still be approved through the normal Core nomination and voting process. During the nomination, the Project Steward will state that the nomination is for the Core Residency designation. The project Steward is the only one who can officially make this designation during the nomination process.
 
