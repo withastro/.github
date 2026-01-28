@@ -218,7 +218,6 @@ Trivial tasks (like removing spam) can be acted on unilaterally by a Moderator. 
 
 - `@mods` role on [Discord](https://astro.build/chat)
 - Invitation to the private `#moderators` channel on Discord
-- Invitation to the `staff` team on GitHub.
 
 #### Nomination
 
@@ -261,19 +260,6 @@ The Steward is not eligible for the TSC, but may participate in TSC discussions 
 - The makeup of the TSC is decided by the project Steward.
 - A core member may self-nominate by sending a private message to the Steward. The Steward shall provide time and effort to discuss the nomination with any nominee, and provide feedback that would be helpful to the nominee as they evaluate their own nomination.
 - The Steward must communicate all TSC membership changes in the Discord `#core` channel (the private channel for Core members).
-
-### Staff
-
-**Staff** is a special designation for employees of [The Astro Technology Company](https://astro.build/company).
-
-#### Privileges
-
-- `@staff` role on [Discord](https://astro.build/chat)
-- New name color on Discord: **yellow**.
-- Invitation to some private channels on Discord, at the discretion of the project Steward.
-- Invitation to the `staff` team on GitHub.
-
-Staff membership does not grant any additional abilities when it comes to voting and project governance. A Staff member is still eligible for other roles in the community and may still vote as defined by their other roles. For example, a Staff member who is also a part of `@core` will be able to vote as any other `@core` member would.
 
 ### Alumni
 
@@ -386,7 +372,7 @@ Anyone may report a violation. Violations can be reported in the following ways:
 - In private, via email to one or more stewards.
 - In private, via direct message to a project steward on Discord.
 - In public, via a GitHub comment (mentioning `@withastro/maintainers`).
-- In public, via the project Discord server (mentioning `staff`).
+- In public, via the project Discord server (mentioning `@mods`).
 
 ### Who gets involved?
 
