@@ -177,17 +177,12 @@ The project Steward is currently: **@FredKSchott**
 
 #### Responsibilities
 
-- Access to the [@astrodotbuild Twitter account](https://twitter.com/astrodotbuild)
-- Administration privileges on the [astro GitHub org](https://github.com/withastro)
 - Administration privileges on the [astro Discord server](https://astro.build/chat)
-- Publish access to the [`astro` npm package](https://www.npmjs.com/package/astro)
 - Domain registrar and DNS access to `astro.build` and all other domains
-- Administration access to the `astro.build` Vercel account
 - Ability to initiate a [vote](GOVERNANCE.md#voting)
 - Ability to veto [votes](GOVERNANCE.md#voting) and resolve voting deadlocks
 - Define project direction and planning
 - Ability to decide on moderation decisions
-- Access to the `*@astro.build` email address
 
 #### Nomination
 
