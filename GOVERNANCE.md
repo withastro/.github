@@ -178,7 +178,6 @@ The project Steward is currently: **@FredKSchott**
 #### Responsibilities
 
 - Administration privileges on the [astro Discord server](https://astro.build/chat)
-- Domain registrar and DNS access to `astro.build` and all other domains
 - Ability to initiate a [vote](GOVERNANCE.md#voting)
 - Ability to veto [votes](GOVERNANCE.md#voting) and resolve voting deadlocks
 - Define project direction and planning
