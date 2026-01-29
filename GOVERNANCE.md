@@ -181,7 +181,7 @@ The project Steward is currently: **@FredKSchott**
 - Ability to veto [votes](GOVERNANCE.md#voting) and resolve voting deadlocks
 - Define project direction and planning
 - Ability to decide on moderation decisions
-- Create, administer, and manage access to all third-party services/accounts to which Astro has access
+- Create, administer, and manage access to all third-party services/accounts to which the project has access
 
 #### Nomination
 
