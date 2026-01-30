@@ -177,6 +177,7 @@ The project Steward is currently: **@FredKSchott**
 
 #### Responsibilities
 
+- Define project direction and planning
 - Create, administer, and manage access to all third-party services/accounts to which the project has access.
 - Ensure [voting](#voting) is carried out according to governance, resolve deadlocks, and veto the result of a vote in extreme situations when deemed necessary for the sake of the project.
 - Oversee moderation of community spaces such as GitHub and Discord, provide guidance, and enforce the decisions of moderators when necessary.
