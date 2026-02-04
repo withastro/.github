@@ -138,9 +138,9 @@ Not every contributor will reach this level, and that's okay! L2 Maintainers sti
 #### Responsibilities
 
 - All of the responsibilities of L2, including...
-- Ownership over specific part(s) of the project.
-- Ownership over the long-term health and success of Astro.
-- Leadership as a role-model to other maintainers and community members.
+- Own specific part(s) of the project.
+- Own the long-term health and success of Astro.
+- Act as a role-model to other maintainers and community members.
 
 #### Nomination
 
@@ -177,17 +177,10 @@ The project Steward is currently: **@FredKSchott**
 
 #### Responsibilities
 
-- Access to the [@astrodotbuild Twitter account](https://twitter.com/astrodotbuild)
-- Administration privileges on the [astro GitHub org](https://github.com/withastro)
-- Administration privileges on the [astro Discord server](https://astro.build/chat)
-- Publish access to the [`astro` npm package](https://www.npmjs.com/package/astro)
-- Domain registrar and DNS access to `astro.build` and all other domains
-- Administration access to the `astro.build` Vercel account
-- Ability to initiate a [vote](GOVERNANCE.md#voting)
-- Ability to veto [votes](GOVERNANCE.md#voting) and resolve voting deadlocks
 - Define project direction and planning
-- Ability to decide on moderation decisions
-- Access to the `*@astro.build` email address
+- Create, administer, and manage access to all third-party services/accounts to which the project has access.
+- Ensure voting is carried out according to governance. See [Voting](#voting) below.
+- Oversee moderation of community spaces such as GitHub and Discord. See [Moderation](#moderation) below.
 
 #### Nomination
 
@@ -248,12 +241,12 @@ The Steward is not eligible for the TSC, but may participate in TSC discussions 
 
 #### Responsibilities
 
-- Participating in RFC discussions and technical meetings.
-- Assisting with design and implementation of non-trivial GitHub PRs.
-- Reviewing and merging larger, non-trivial PRs.
-- Maintaining and improving overall codebase architecture.
-- Tracking and ensuring progress of open pull requests.
-- Mentoring and guiding other community contributors.
+- Participate in RFC discussions and technical meetings.
+- Assist with design and implementation of non-trivial GitHub PRs.
+- Review and merge larger, non-trivial PRs.
+- Maintain and improve overall codebase architecture.
+- Track and ensure progress of open pull requests.
+- Mentor and guide other community contributors.
 
 #### Nomination
 
