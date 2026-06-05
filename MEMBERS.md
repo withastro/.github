@@ -34,6 +34,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Martin Trapp [@martrapp](https://github.com/martrapp)
 - Ming-jun Lu [@mingjunlu](https://github.com/mingjunlu)
 - Moustapha Kebe [@happydev](https://github.com/Moustaphadev)
+- Ocavue [@ocavue](https://github.com/ocavue)
 - Oliver Speir [@oliverspeir](https://github.com/oliverspeir)
 - Paul Valladares "dreyfus" [@dreyfus92](https://github.com/dreyfus92)
 - Rafael Yasuhide Sudo [@rururux](https://github.com/rururux)
