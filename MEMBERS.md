@@ -4,7 +4,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 
 ## Steward
 
-- Fred K Schott [@fredkschott](https://github.com/fredkschott)
+- Matthew Phillips [@matthewp](https://github.com/matthewp)
 
 ## Core
 
@@ -14,10 +14,10 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Emanuele Stoppa [@ematipico](https://github.com/ematipico)
 - Erika "Princesseuh" [@Princesseuh](https://github.com/princesseuh)
 - Florian Lefebvre [@florian-lefebvre](https://github.com/florian-lefebvre)
+- Fred K Schott [@fredkschott](https://github.com/fredkschott)
 - HiDeoo [@hideoo](https://github.com/hideoo)
 - Luiz Ferraz "Fryuni" [@Fryuni](https://github.com/Fryuni)
 - Matt Kane [@ascorbic](https://github.com/ascorbic)
-- Matthew Phillips [@matthewp](https://github.com/matthewp)
 - Reuben Tier [@TheOtterlord](https://github.com/TheOtterlord)
 - Sarah Rainsberger [@sarah11918](https://github.com/sarah11918)
 - Yan Thomas [@yanthomasdev](https://github.com/yanthomasdev)
@@ -47,7 +47,6 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Emanuele Stoppa [@ematipico](https://github.com/ematipico)
 - Florian Lefebvre [@florian-lefebvre](https://github.com/florian-lefebvre)
 - Matt Kane [@ascorbic](https://github.com/ascorbic)
-- Matthew Phillips [@matthewp](https://github.com/matthewp)
 
 ## Alumni
 

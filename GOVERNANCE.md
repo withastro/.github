@@ -173,7 +173,7 @@ The role of Steward is mainly an administrative one. Stewards control and mainta
 
 In extremely rare cases, a Steward can act unilaterally when they believe it is in the project's best interest and can prove that the issue cannot be resolved through normal governance procedure. The steward must publicly state their reason for unilateral action before taking it.
 
-The project Steward is currently: **@FredKSchott**
+The project Steward is currently: **@matthewp**
 
 #### Responsibilities
 
