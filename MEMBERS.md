@@ -24,6 +24,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 
 ## Maintainers
 
+- Adam Chalemian [@adamchal](https://github.com/adamchal)
 - Adam Matthiesen [@Adammatthiesen](https://github.com/Adammatthiesen)
 - Junseong Park [@jsparkdev](https://github.com/jsparkdev)
 - Kenji [@jp-knj](https://github.com/jp-knj)
